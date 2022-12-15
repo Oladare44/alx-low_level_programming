@@ -1,11 +1,14 @@
 #include "main.h"
 
 /**
+ * main - check the code
  * print_numbers - prints the digits 1-9
  * main - check the code
  * Return: Always 0.
  */
-void print_numbers(void)
+
+int main(void)
+
 {
 	int i  0;
 
