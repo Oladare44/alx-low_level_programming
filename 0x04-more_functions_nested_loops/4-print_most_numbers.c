@@ -2,12 +2,13 @@
 
 /**
  * print_most_numbers - print all numbers except 2 and 4
- * Return: Always 0.
+ * Return: Always 0
+ * main - check the code
  */
 
 void print_most_numbers(void)
 {
-	int i = 0;
+	int i;
 	
 	while (i <= 9)
 	{
