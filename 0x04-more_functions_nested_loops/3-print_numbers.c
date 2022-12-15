@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
  * print_numbers - prints the digits 1-9
  * main - check the code
